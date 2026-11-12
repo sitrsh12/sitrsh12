@@ -38,15 +38,8 @@ I built a complete multi-tenant ERP system from scratch for businesses in Nepal.
 *   **Modules Built:** Point of Sale (POS), Loyalty Cards, Inventory, Delivery Routing (with GPS tracking), and a localized Nepali AI Voice Agent.
 *   **Architecture:** Handles role-based access control (Owner, Worker, Rider), native Android background location tracking, and automated WhatsApp AI fallbacks (Meta Muse, Groq, Gemini).
 
-### 📫 Let's Work Together
-
-I am currently opening my calendar for a maximum of **two freelance clients** this month. If you need a reliable system built from scratch, or need a complex AI/WhatsApp integration, let's talk.
-
-*   **Location:** Nepal (Available for remote work worldwide)
-*   **Email:** [sitesh12@gmail.com](mailto:sitesh12@gmail.com)
-*   **X (Twitter):** [@sitesh12](https://x.com/sitesh12)
-
 <br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sitrsh12&label=Profile%20views&color=0e75b6&style=flat" alt="sitrsh12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitrsh12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=c9d1d9" alt="Sitesh's GitHub Stats" width="100%" />
 </div>
