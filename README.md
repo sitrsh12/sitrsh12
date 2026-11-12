@@ -37,9 +37,3 @@ I built a complete multi-tenant ERP system from scratch for businesses in Nepal.
 *   **Live Traction:** 5 paying B2B clients, 134 active end-users.
 *   **Modules Built:** Point of Sale (POS), Loyalty Cards, Inventory, Delivery Routing (with GPS tracking), and a localized Nepali AI Voice Agent.
 *   **Architecture:** Handles role-based access control (Owner, Worker, Rider), native Android background location tracking, and automated WhatsApp AI fallbacks (Meta Muse, Groq, Gemini).
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitrsh12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=c9d1d9" alt="Sitesh's GitHub Stats" width="100%" />
-</div>
